@@ -1,12 +1,4 @@
-<h1  align=center  >Wildfire Prediction in Satellite Imagery</h1>
 
-<br>
-
-<img  src="https://raw.githubusercontent.com/doguilmak/Wildfire-Prediction-from-Satellite-Imagery/main/assets/wildfire_canada.png"  width=1000  height=250  alt="github.com/doguilmak/Wildfire-Prediction-from-Satellite-Imagery"/>
-
-<small>Picture Source: <a  href="https://github.com/doguilmak/Wildfire-Prediction-from-Satellite-Imagery">Doğu İlmak GitHub</a></small>
-
-<br>
 
 <h2>Predicting Wildfires with Convolutional Neural Networks (CNNs)</h2>
 
@@ -74,23 +66,5 @@
 
 <br>
 
-<h2>Notebooks</h2>
 
-On below, there are informations about the notebooks created respectively.
 
-<ol>
-	<li>In this section, visualizations of the data set were made. <br> Notebook: <a href='https://github.com/doguilmak/Wildfire-Prediction-from-Satellite-Imagery/blob/main/1_load_and_display_data.ipynb'>1_load_and_display_data.ipynb</a></li> <br>
-	<li>In this section, I build classification model with <i>VGG-16</i>. (Will be added soon..) <br> Notebook: <a href=''>2_pretrained_vgg16.ipynb</a> - Model has % accuracy.</li> <br>
-	<li>In this section, I build classification model with Class Activation Map (CAM). <br> Notebook: <a href='https://github.com/doguilmak/Wildfire-Prediction-from-Satellite-Imagery/blob/main/3_model_with_cam.ipynb'>3_model_with_cam.ipynb</a> - Model has 95.3% accuracy. The results of the model on the test data are in the <a href="https://github.com/doguilmak/Wildfire-Prediction-from-Satellite-Imagery/blob/main/predictions/custom_model_predictions.csv">custom_model_predictions.csv</a> file. Just click the link to view.</p></li>
-</ol>
-
-<br>
-
-<h2>Contact Me</h2>
-
-<p>If you have something to say to me please contact me:</p>
-
-<ul>
-	 <li>Twitter: <a href="https://twitter.com/Doguilmak">Doguilmak</a></li>
-	 <li>Mail address: doguilmak@gmail.com</li>
-</ul>
