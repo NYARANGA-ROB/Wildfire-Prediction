@@ -36,13 +36,7 @@
 
 <p>To download the dataset from Kaggle, you need to have a kaggle account.</p>
 
-<ul>
 
-<li>Dataset download link: <a  href='https://www.kaggle.com/datasets/abdelghaniaaba/wildfire-prediction-dataset/download?datasetVersionNumber=1'>Dataset</a></li>
-
-<li>Dataset on Kaggle: <a  href='https://www.kaggle.com/datasets/abdelghaniaaba/wildfire-prediction-dataset'>Wildfire Prediction Dataset (Satellite Images)</a></li>
-
-</ul> 
 
 <h2>Keywords</h2>
 <ul>
