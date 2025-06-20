@@ -55,14 +55,9 @@
   <li>VGG-16</li>
 </ul>
 
-<br>
 
-<h2>Sources</h2>
 
-<ul>
-	<li><a href='https://open.canada.ca/data/en/dataset/9d8f219c-4df0-4481-926f-8a2a532ca003'>Refer to Canada's Website for the Original Wildfires Data (Forest Fires - Open Government Portal)</a></li>
-	<li><a href='https://www.donneesquebec.ca/fr/licence/'>Original License For the Data (Creative Commons 4.0 Attribution (CC-BY) license – Quebec)</a></li>
-</ul>
+
 
 <br>
 
